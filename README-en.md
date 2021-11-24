@@ -12,6 +12,7 @@ English | [简体中文](./README.md)
   - [Icon](#icon)
   - [Image](#image)
   - [Navigation](#navigation)
+  - [Forms](#forms)
   - [Animation](#animation)
   - [Safe Area](#safe-area)
 
@@ -49,6 +50,21 @@ English | [简体中文](./README.md)
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps. ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native. ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app. ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
+
+### Forms
+
+- [formik](https://github.com/jaredpalmer/formik) - Forms in React, without tears. ![](https://img.shields.io/github/stars/jaredpalmer/formik.svg?style=social&label=Star)
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for forms validation without the hassle. ![](https://img.shields.io/github/stars/react-hook-form/react-hook-form.svg?style=social&label=Star)
+- [redux-form](https://github.com/redux-form/redux-form) - Redux form state management (Web and Native). ![](https://img.shields.io/github/stars/redux-form/redux-form.svg?style=social&label=Star)
+- [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms. ![](https://img.shields.io/github/stars/gcanti/tcomb-form-native.svg?style=social&label=Star)
+- [react-native-gifted-form](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native. ![](https://img.shields.io/github/stars/FaridSafi/react-native-gifted-form.svg?style=social&label=Star)
+- [react-native-clean-form](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components. ![](https://img.shields.io/github/stars/esbenp/react-native-clean-form.svg?style=social&label=Star)
+- [react-native-form-generator](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze. ![](https://img.shields.io/github/stars/MichaelCereda/react-native-form-generator.svg?style=social&label=Star)
+- [react-reactive-forms](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React. ![](https://img.shields.io/github/stars/bietkul/react-reactive-form.svg?style=social&label=Star)
+- [react-native-form](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields! ![](https://img.shields.io/github/stars/julianocomg/react-native-form.svg?style=social&label=Star)
+- [react-native-from-builder](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way. ![](https://img.shields.io/github/stars/bietkul/react-native-form-builder.svg?style=social&label=Star)
+- [react-native-forms](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms. ![](https://img.shields.io/github/stars/michaelhelvey/react-native-forms.svg?style=social&label=Star)
+- [foect](https://github.com/unexge/foect) - Simple form validation library for React Native ![](https://img.shields.io/github/stars/unexge/foect.svg?style=social&label=Star)
 
 ### Animation
 
