@@ -45,6 +45,7 @@
 ### 图标
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 可自定制图标，支持 NavBar/TabBar、图像和样式定义。 可从 3000 多个图标中选择 或 使用您自己的图标。 ![](https://img.shields.io/github/stars/oblador/react-native-vector-icons.svg?style=social&label=Star)
+- [@expo/vector-icons](https://github.com/expo/vector-icons) - 基于 @oblador/react-native-vector-icons 封装的兼容层，使其可以工作在 Expo 物料系统。  ![](https://img.shields.io/github/stars/expo/vector-icons.svg?style=social&label=Star)
 - [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - 基于react-native-svg 和 [Eva Icons](https://github.com/akveo/eva-icons) 的实现 ![](https://img.shields.io/github/stars/artyorsh/react-native-eva-icons.svg?style=social&label=Star)
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - 通过 React-Icomoon，您可以轻松使用您在 icomoon 中选择的或创建的图标。 📦 零依赖和轻量级。 ![](https://img.shields.io/github/stars/aykutkardas/react-icomoon.svg?style=social&label=Star)
 
