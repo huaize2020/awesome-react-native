@@ -45,6 +45,7 @@ English | [简体中文](./README.md)
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component. ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects. ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - Render SVG images in React Native from an URL or static file(Depends on react-native-svg). ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
 
 ### Navigation
 

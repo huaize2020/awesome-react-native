@@ -52,7 +52,8 @@
 ### 图形/图像
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, 高性能的图像组件。 ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
-- [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG组件库，用于 React Native, React Native Web 和 纯React Web项目. ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG组件库，用于 React Native, React Native Web 和 纯React Web项目。 ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - 从一个 URL 或静态文件中渲染 SVG 图形 (基于react-native-svg)。 ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
 
 ### 路由导航
 
