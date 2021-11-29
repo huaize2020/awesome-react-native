@@ -79,7 +79,10 @@ English | [简体中文](./README.md)
 ### Animation
 
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! ![](https://img.shields.io/github/stars/airbnb/lottie-react-native.svg?style=social&label=Star)
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented. ![](https://img.shields.io/github/stars/software-mansion/react-native-reanimated.svg?style=social&label=Star)
+- [react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native. ![](https://img.shields.io/github/stars/oblador/react-native-animatable.svg?style=social&label=Star)
+- [react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native. ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
+- [react-native-reanimated](https://github.com/kmagiera/react-native-reanimated) - React Native's Animated library reimplemented. ![](https://img.shields.io/github/stars/kmagiera/react-native-reanimated.svg?style=social&label=Star)
+- [react-native-magic-move](https://github.com/IjzerenHein/react-native-magic-move) - Create magical move transitions between scenes in react-native 🐰🎩✨ (shared element transitions) ![](https://img.shields.io/github/stars/IjzerenHein/react-native-magic-move.svg?style=social&label=Star)
 
 ### Safe Area
 

@@ -87,7 +87,10 @@
 ### 动画
 
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - 适用于 Android 和 iOS 的移动库，用于解析 Adobe After Effects 动画，使用 bodymovin 导出为 JSON，并在移动设备上本地呈现它们！ ![](https://img.shields.io/github/stars/airbnb/lottie-react-native.svg?style=social&label=Star)
+- [react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native.React 易用的标准动画和声明式的过渡效果(transitions)。 ![](https://img.shields.io/github/stars/oblador/react-native-animatable.svg?style=social&label=Star)
+- [react-native-interactable](https://github.com/wix/react-native-interactable) - 高性能可交互视图的实验级实现。 ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
 - [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - 重新实现了 React Native 动画库。 ![](https://img.shields.io/github/stars/software-mansion/react-native-reanimated.svg?style=social&label=Star)
+- [react-native-magic-move](https://github.com/IjzerenHein/react-native-magic-move) - 在场景切换间创建神奇的移动过渡。 ![](https://img.shields.io/github/stars/IjzerenHein/react-native-magic-move.svg?style=social&label=Star)
 
 ### 安全区域
 
