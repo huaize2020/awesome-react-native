@@ -15,6 +15,7 @@ English | [简体中文](./README.md)
   - [Navigation](#navigation)
   - [Forms](#forms)
   - [Animation](#animation)
+  - [Dialog/Modal/Alert](#dialogmodalalert)
   - [Safe Area](#safe-area)
 
 ## Official
@@ -83,6 +84,14 @@ English | [简体中文](./README.md)
 - [react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native. ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
 - [react-native-reanimated](https://github.com/kmagiera/react-native-reanimated) - React Native's Animated library reimplemented. ![](https://img.shields.io/github/stars/kmagiera/react-native-reanimated.svg?style=social&label=Star)
 - [react-native-magic-move](https://github.com/IjzerenHein/react-native-magic-move) - Create magical move transitions between scenes in react-native 🐰🎩✨ (shared element transitions) ![](https://img.shields.io/github/stars/IjzerenHein/react-native-magic-move.svg?style=social&label=Star)
+
+### Dialog/Modal/Alert
+
+- [react-native-modal](https://github.com/react-native-community/react-native-modal) - An enhanced, animated and customizable react-native modal. ![](https://img.shields.io/github/stars/react-native-community/react-native-modal.svg?style=social&label=Star)
+- [react-native-modals](https://github.com/jacklam718/react-native-modals) - A react native modals library. Swipeable. Highly customizable. Support multi modals & Support custom animation. For IOS & Android. ![](https://img.shields.io/github/stars/jacklam718/react-native-modals.svg?style=social&label=Star)
+- [react-native-root-modal](https://github.com/magicismight/react-native-root-modal) - React native modal component. ![](https://img.shields.io/github/stars/magicismight/react-native-root-modal.svg?style=social&label=Star)
+- [react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component. ![](https://img.shields.io/github/stars/douglasjunior/react-native-simple-dialogs.svg?style=social&label=Star)
+- [react-native-fs-modal](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component. ![](https://img.shields.io/github/stars/kirkness/react-native-fs-modal.svg?style=social&label=Star)
 
 ### Safe Area
 

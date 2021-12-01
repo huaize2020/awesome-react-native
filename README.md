@@ -23,6 +23,7 @@
   - [路由导航](#路由导航)
   - [表单](#表单)
   - [动画](#动画)
+  - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
   - [安全区域](#安全区域)
 
 ## 官方资源
@@ -91,6 +92,14 @@
 - [react-native-interactable](https://github.com/wix/react-native-interactable) - 高性能可交互视图的实验级实现。 ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
 - [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - 重新实现了 React Native 动画库。 ![](https://img.shields.io/github/stars/software-mansion/react-native-reanimated.svg?style=social&label=Star)
 - [react-native-magic-move](https://github.com/IjzerenHein/react-native-magic-move) - 在场景切换间创建神奇的移动过渡。 ![](https://img.shields.io/github/stars/IjzerenHein/react-native-magic-move.svg?style=social&label=Star)
+
+### 对话框/模态弹窗/警告提示组件
+
+- [react-native-modal](https://github.com/react-native-community/react-native-modal) - 一种增强的、含动画的和可定制的React Native原生模态对话框。 ![](https://img.shields.io/github/stars/react-native-community/react-native-modal.svg?style=social&label=Star)
+- [react-native-modals](https://github.com/jacklam718/react-native-modals) - React Native 模态弹窗库，支持滑动、高度可定制、支持多模态弹窗和支持自定义动画。适用于 IOS 和安卓。 ![](https://img.shields.io/github/stars/jacklam718/react-native-modals.svg?style=social&label=Star)
+- [react-native-root-modal](https://github.com/magicismight/react-native-root-modal) - React Native 模态弹窗组件。 ![](https://img.shields.io/github/stars/magicismight/react-native-root-modal.svg?style=social&label=Star)
+- [react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) - 跨平台的简单 React Native 对话框。 ![](https://img.shields.io/github/stars/douglasjunior/react-native-simple-dialogs.svg?style=social&label=Star)
+- [react-native-fs-modal](https://github.com/kirkness/react-native-fs-modal) - React Native 全屏模态对话框组件。 ![](https://img.shields.io/github/stars/kirkness/react-native-fs-modal.svg?style=social&label=Star)
 
 ### 安全区域
 
