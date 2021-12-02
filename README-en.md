@@ -28,6 +28,7 @@ English | [简体中文](./README.md)
 ## Utilities
 
 - [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) - 🔗A lightweight and trustworthy URL polyfill for React Native. ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
+- [react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - A small implementation of crypto.getRandomValues for React Native. This is useful to polyfill for libraries like uuid that depend on it. ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
 
 ## UI Frameworks
 

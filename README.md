@@ -36,6 +36,7 @@
 ## 工具
 
 - [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) - 🔗用于 React Native 的轻量级且值得信赖的 URL polyfill。 ![](https://img.shields.io/github/stars/charpeni/react-native-url-polyfill.svg?style=social&label=Star)
+- [react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - 用于 React Native 的 crypto.getRandomValues 的小型实现。这是一个 polyfill，例如 [uuid](https://github.com/uuidjs/uuid) 基于它。![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
 
 ## UI框架
 
