@@ -19,6 +19,7 @@
 - [组件](#组件)
   - [图标](#图标)
   - [图形/图像](#图形图像)
+  - [查看器/滑动组件/轮播组件](#查看器滑动组件轮播组件)
   - [按钮](#按钮)
   - [路由导航](#路由导航)
   - [表单](#表单)
@@ -47,7 +48,8 @@
 ### 图标
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 可自定制图标，支持 NavBar/TabBar、图像和样式定义。 可从 3000 多个图标中选择 或 使用您自己的图标。 ![](https://img.shields.io/github/stars/oblador/react-native-vector-icons.svg?style=social&label=Star)
-- [@expo/vector-icons](https://github.com/expo/vector-icons) - 基于 @oblador/react-native-vector-icons 封装的兼容层，使其可以工作在 Expo 物料系统。  ![](https://img.shields.io/github/stars/expo/vector-icons.svg?style=social&label=Star)
+- [@ant-design/icons-react-native](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react-native) - 用于 React Native 的 Ant Design 图标。 ![](https://img.shields.io/github/stars/ant-design/ant-design-icons.svg?style=social&label=Star)
+- [@expo/vector-icons](https://github.com/expo/vector-icons) - 基于 @oblador/react-native-vector-icons 封装的兼容层，使其可以工作在 Expo 物料系统。 ![](https://img.shields.io/github/stars/expo/vector-icons.svg?style=social&label=Star)
 - [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - 基于react-native-svg 和 [Eva Icons](https://github.com/akveo/eva-icons) 的实现 ![](https://img.shields.io/github/stars/artyorsh/react-native-eva-icons.svg?style=social&label=Star)
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - 通过 React-Icomoon，您可以轻松使用您在 icomoon 中选择的或创建的图标。 📦 零依赖和轻量级。 ![](https://img.shields.io/github/stars/aykutkardas/react-icomoon.svg?style=social&label=Star)
 
@@ -56,6 +58,15 @@
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, 高性能的图像组件。 ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG组件库，用于 React Native, React Native Web 和 纯React Web项目。 ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - 从一个 URL 或静态文件中渲染 SVG 图形 (基于react-native-svg)。 ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
+
+### 查看器/滑动组件/轮播组件
+
+- [react-native-swiper](https://github.com/leecade/react-native-swiper) - React Native 中最好的滑动组件。 ![](https://img.shields.io/github/stars/leecade/react-native-swiper.svg?style=social&label=Star)
+- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel) - 滑动/轮播组件，具有预览、多种布局、视差图像、可处理大量元素等。 ![](https://img.shields.io/github/stars/archriss/react-native-snap-carousel.svg?style=social&label=Star)
+- [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) - 🚀 小巧高速的图片查看库，支持图片的平移和缩放。 ![](https://img.shields.io/github/stars/ascoders/react-native-image-viewer.svg?style=social&label=Star)
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - 可循环的视图/图片轮播组件。 ![](https://img.shields.io/github/stars/appintheair/react-native-looped-carousel.svg?style=social&label=Star)
+- [photo-viewer](https://github.com/merryjs/photo-viewer) - 基于 NYTPhotoViewer 和 FrescoImageViewer 的照片查看器。 ![](https://img.shields.io/github/stars/merryjs/photo-viewer.svg?style=social&label=Star)
+- [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - 用于React Native的图片查看器, 类似 twitter 的图片查看器。 ![](https://img.shields.io/github/stars/Tinysymphony/react-native-zoom-image.svg?style=social&label=Star)
 
 ### 按钮
 

@@ -11,6 +11,7 @@ English | [简体中文](./README.md)
 - [Components](#components)
   - [Icon](#icon)
   - [Image](#image)
+  - [Viewer/Swiper/Carousel](#viewerswipercarousel)
   - [Button](#button)
   - [Navigation](#navigation)
   - [Forms](#forms)
@@ -39,6 +40,7 @@ English | [简体中文](./README.md)
 ### Icon
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own. ![](https://img.shields.io/github/stars/oblador/react-native-vector-icons.svg?style=social&label=Star)
+- [@ant-design/icons-react-native](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-react-native) - Ant Design Icons for React Native.  ![](https://img.shields.io/github/stars/ant-design/ant-design-icons.svg?style=social&label=Star)
 - [@expo/vector-icons](https://github.com/expo/vector-icons) - This library is a compatibility layer around @oblador/react-native-vector-icons to work with the Expo asset system. ![](https://img.shields.io/github/stars/expo/vector-icons.svg?style=social&label=Star)
 - [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements. ![](https://img.shields.io/github/stars/artyorsh/react-native-eva-icons.svg?style=social&label=Star)
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight. ![](https://img.shields.io/github/stars/aykutkardas/react-icomoon.svg?style=social&label=Star)
@@ -48,6 +50,15 @@ English | [简体中文](./README.md)
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component. ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects. ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - Render SVG images in React Native from an URL or static file(Depends on react-native-svg). ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
+
+### Viewer/Swiper/Carousel
+
+- [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.  ![](https://img.shields.io/github/stars/leecade/react-native-swiper.svg?style=social&label=Star)
+- [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more.  ![](https://img.shields.io/github/stars/archriss/react-native-snap-carousel.svg?style=social&label=Star)
+- [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer) - 🚀 tiny & fast lib for react native image viewer pan and zoom. ![](https://img.shields.io/github/stars/ascoders/react-native-image-viewer.svg?style=social&label=Star)
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images. ![](https://img.shields.io/github/stars/appintheair/react-native-looped-carousel.svg?style=social&label=Star)
+- [photo-viewer](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer. ![](https://img.shields.io/github/stars/merryjs/photo-viewer.svg?style=social&label=Star)
+- [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer. ![](https://img.shields.io/github/stars/Tinysymphony/react-native-zoom-image.svg?style=social&label=Star)
 
 ### Button
 
