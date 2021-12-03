@@ -35,8 +35,9 @@
 
 ## 工具
 
+- [react-native-root-siblings](https://github.com/magicismight/react-native-root-siblings) - 用于创建根元素的兄弟元素，使其可以在应用其他元素上面，例如模态对话框。 ![](https://img.shields.io/github/stars/magicismight/react-native-root-siblings.svg?style=social&label=Star)
+- [react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - 用于 React Native 的 crypto.getRandomValues 的小型实现。这是一个 polyfill，例如 [uuid](https://github.com/uuidjs/uuid) 基于它。 ![](https://img.shields.io/github/stars/LinusU/react-native-get-random-values.svg?style=social&label=Star)
 - [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) - 🔗用于 React Native 的轻量级且值得信赖的 URL polyfill。 ![](https://img.shields.io/github/stars/charpeni/react-native-url-polyfill.svg?style=social&label=Star)
-- [react-native-get-random-values](https://github.com/LinusU/react-native-get-random-values) - 用于 React Native 的 crypto.getRandomValues 的小型实现。这是一个 polyfill，例如 [uuid](https://github.com/uuidjs/uuid) 基于它。![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
 
 ## UI框架
 
