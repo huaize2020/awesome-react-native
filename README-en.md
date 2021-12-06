@@ -18,6 +18,11 @@ English | [简体中文](./README.md)
   - [Animation](#animation)
   - [Dialog/Modal/Alert](#dialogmodalalert)
   - [Safe Area](#safe-area)
+  - [Media](#media)
+    - [WebRTC](#webrtc)
+    - [Camera](#camera)
+    - [Video](#video)
+    - [Audio](#audio)
 
 ## Official
 
@@ -108,4 +113,31 @@ English | [简体中文](./README.md)
 
 ### Safe Area
 
-- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!  ![](https://img.shields.io/github/stars/th3rdwave/react-native-safe-area-context.svg?style=social&label=Star)
+- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web! ![](https://img.shields.io/github/stars/th3rdwave/react-native-safe-area-context.svg?style=social&label=Star)
+
+### Media
+
+#### WebRTC
+
+- [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native. ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-webrtc.svg?style=social&label=Star)
+- [react-native-incall-manager](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc. ![](https://img.shields.io/github/stars/zxcpoiu/react-native-incall-manager.svg?style=social&label=Star)
+
+#### Camera
+
+- [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component. ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
+- [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - A high performance, easy to use, rock solid camera library for React Native apps. ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
+* [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll. ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
+
+#### Video
+
+- [react-native-video](https://github.com/react-native-video/react-native-video) - A Video component for react-native. ![](https://img.shields.io/github/stars/react-native-video/react-native-video.svg?style=social&label=Star)
+- [react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native. ![](https://img.shields.io/github/stars/shahen94/react-native-video-processing.svg?style=social&label=Star)
+* [react-native-videoeditorsdk](https://github.com/imgly/vesdk-react-native) - React Native module for [VideoEditor SDK](https://www.videoeditorsdk.com) (Android & iOS). ![](https://img.shields.io/github/stars/imgly/vesdk-react-native.svg?style=social&label=Star)
+
+#### Audio
+
+- [react-native-sound](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips. ![](https://img.shields.io/github/stars/zmxv/react-native-sound.svg?style=social&label=Star)
+- [react-native-track-player](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows. ![](https://img.shields.io/github/stars/react-native-kit/react-native-track-player.svg?style=social&label=Star)
+- [react-native-audio](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained). ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
+- [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network. ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
+- [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - Display and manage media controls on lock screen and notification center for iOS and Android. ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)

@@ -26,6 +26,11 @@
   - [动画](#动画)
   - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
   - [安全区域](#安全区域)
+  - [多媒体](#多媒体)
+    - [WebRTC](#webrtc)
+    - [摄像头](#摄像头)
+    - [视频](#视频)
+    - [音频](#音频)
 
 ## 官方资源
 
@@ -117,3 +122,30 @@
 ### 安全区域
 
 - [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - 处理安全区域的灵活方法。也适用于 Android 和 Web！ ![](https://img.shields.io/github/stars/th3rdwave/react-native-safe-area-context.svg?style=social&label=Star)
+
+### 多媒体
+
+#### WebRTC
+
+- [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - React Native WebRTC 模块。 ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-webrtc.svg?style=social&label=Star)
+- [react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - 在处理音视频聊天期间，处理媒体路由/传感器/事件（类似 WebRTC)。 ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-incall-manager.svg?style=social&label=Star)
+
+#### 摄像头
+
+- [react-native-camera](https://github.com/lwansbrough/react-native-camera) - 摄像头组件。 ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
+- [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - 用于 React Native 应用程序的高性能、易用、稳定的相机库。 ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
+- [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - 从相机中选择图像的 React Native 组件。 ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
+
+#### 视频
+
+- [react-native-video](https://github.com/react-native-video/react-native-video) - 视频组件。 ![](https://img.shields.io/github/stars/react-native-video/react-native-video.svg?style=social&label=Star)
+- [react-native-video-processing](https://github.com/shahen94/react-native-video-processing) - React Native 的原生视频编辑/修剪/过滤库。 ![](https://img.shields.io/github/stars/shahen94/react-native-video-processing.svg?style=social&label=Star)
+- [react-native-videoeditorsdk](https://github.com/imgly/vesdk-react-native) - 基于 [VideoEditor SDK](https://www.videoeditorsdk.com) (Android & iOS) 的 React Native组件。 ![](https://img.shields.io/github/stars/imgly/vesdk-react-native.svg?style=social&label=Star)
+
+#### 音频
+
+- [react-native-sound](https://github.com/zmxv/react-native-sound) - 用于播放音频剪辑的 React Native 组件。 ![](https://img.shields.io/github/stars/zmxv/react-native-sound.svg?style=social&label=Star)
+- [react-native-track-player](https://github.com/react-native-kit/react-native-track-player) - 为创建音乐应用程序的完全成熟的音频模块。 为 Android、iOS 和 Windows 提供音频播放、外部媒体控制、支持 chromecast 和后台模式。 ![](https://img.shields.io/github/stars/react-native-kit/react-native-track-player.svg?style=social&label=Star)
+- [react-native-audio](https://github.com/jsierles/react-native-audio) - 在您的 iOS 或 Android React Native 应用程序中录制和播放音频（不再维护）。 ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
+- [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - React Native 音频播放和录制。实现了许多有用的功能，例如通过网络查找、循环播放和支持网络流式传输音频文件。 ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
+- [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - 在 iOS 和 Android 的锁屏、通知中心中显示和管理媒体控件。 ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
