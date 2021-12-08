@@ -24,6 +24,7 @@ English | [简体中文](./README.md)
     - [Camera](#camera)
     - [Video](#video)
     - [Audio](#audio)
+- [Boilerplate/Template](#boilerplatetemplate)
 
 ## Official
 
@@ -41,6 +42,7 @@ English | [简体中文](./README.md)
 
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit. ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
 - [react-native-paper](https://github.com/callstack/react-native-paper) - Material design for React Native. ![](https://img.shields.io/github/stars/callstack/react-native-paper.svg?style=social&label=Star)
+- [@shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications. ![](https://img.shields.io/github/stars/shoutem/ui.svg?style=social&label=Star)
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native. ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
 
 ## Components
@@ -147,3 +149,8 @@ English | [简体中文](./README.md)
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained). ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network. ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - Display and manage media controls on lock screen and notification center for iOS and Android. ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+## Boilerplate/Template
+
+- [react-native-template-typescript](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript. ![](https://img.shields.io/github/stars/emin93/react-native-template-typescript.svg?style=social&label=Star)
+- [react-native-typescript-boilerplate ★129](https://github.com/AmitM30/react-native-typescript-boilerplate) - An opinionated boilerplate built with React Native Navigation v3 + Redux + Thunk, in TypeScript. Follows industry best practices. ![](https://img.shields.io/github/stars/AmitM30/react-native-typescript-boilerplate.svg?style=social&label=Star)

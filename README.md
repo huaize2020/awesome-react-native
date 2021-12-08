@@ -32,6 +32,7 @@
     - [摄像头](#摄像头)
     - [视频](#视频)
     - [音频](#音频)
+- [脚手架/模板](#脚手架模板)
 
 ## 官方资源
 
@@ -49,6 +50,7 @@
 
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - 跨平台 React Native UI 工具包。 ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
 - [react-native-paper](https://github.com/callstack/react-native-paper) - React Native版 Material design。 ![](https://img.shields.io/github/stars/callstack/react-native-paper.svg?style=social&label=Star)
+- [@shoutem/ui](https://github.com/shoutem/ui) - 可自定义的 React Native 组件集。 ![](https://img.shields.io/github/stars/shoutem/ui.svg?style=social&label=Star)
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - React Native版 Ant Design。 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
 
 ## 组件
@@ -155,3 +157,8 @@
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - 在您的 iOS 或 Android React Native 应用程序中录制和播放音频（不再维护）。 ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - React Native 音频播放和录制。实现了许多有用的功能，例如通过网络查找、循环播放和支持网络流式传输音频文件。 ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - 在 iOS 和 Android 的锁屏、通知中心中显示和管理媒体控件。 ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+## 脚手架/模板
+
+- [react-native-template-typescript](https://github.com/emin93/react-native-template-typescript) - 干净和简约的 React Native 模板，可快速开始使用 TypeScript。 ![](https://img.shields.io/github/stars/emin93/react-native-template-typescript.svg?style=social&label=Star)
+- [react-native-typescript-boilerplate](https://github.com/AmitM30/react-native-typescript-boilerplate) - 使用 React Native Navigation v3 + Redux + Thunk + TypeScript 构建的遵循行业最佳实践样板。 ![](https://img.shields.io/github/stars/AmitM30/react-native-typescript-boilerplate.svg?style=social&label=Star)
