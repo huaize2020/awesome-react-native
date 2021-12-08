@@ -18,10 +18,11 @@
 - [UI框架](#ui框架)
 - [组件](#组件)
   - [图标](#图标)
-  - [图形/图像](#图形图像)
-  - [查看器/滑动组件/轮播组件](#查看器滑动组件轮播组件)
   - [按钮](#按钮)
   - [路由导航](#路由导航)
+  - [启动画面](#启动画面)
+  - [图形/图像](#图形图像)
+  - [查看器/滑动组件/轮播组件](#查看器滑动组件轮播组件)
   - [表单](#表单)
   - [动画](#动画)
   - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
@@ -60,6 +61,24 @@
 - [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - 基于react-native-svg 和 [Eva Icons](https://github.com/akveo/eva-icons) 的实现 ![](https://img.shields.io/github/stars/artyorsh/react-native-eva-icons.svg?style=social&label=Star)
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - 通过 React-Icomoon，您可以轻松使用您在 icomoon 中选择的或创建的图标。 📦 零依赖和轻量级。 ![](https://img.shields.io/github/stars/aykutkardas/react-icomoon.svg?style=social&label=Star)
 
+### 按钮
+
+- [react-native-action-button](https://github.com/mastermoo/react-native-action-button) - 可自定义的多行为按钮。![](https://img.shields.io/github/stars/mastermoo/react-native-action-button.svg?style=social&label=Star)
+- [react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - 支持进度、可扩展、可用于生产、60fps、可呈现一组很棒的动画 3D UI 按钮。 ![](https://img.shields.io/github/stars/rcaferati/react-native-really-awesome-button.svg?style=social&label=Star)
+- [react-native-button](https://github.com/ide/react-native-button) - 用于 React 应用的按钮。 ![](https://img.shields.io/github/stars/ide/react-native-button.svg?style=social&label=Star)
+- [apsl-react-native-button](https://github.com/APSL/react-native-button) - 带圆角的 React Native 按钮组件。 ![](https://img.shields.io/github/stars/APSL/react-native-button.svg?style=social&label=Star)
+
+### 路由导航
+
+- [react-navigation](https://github.com/react-navigation/react-navigation) - 路由和导航，用于React Native应用。 ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
+- [react-native-navigation](https://github.com/wix/react-native-navigation) - 一个彻底的原生导航解决方案。 ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
+- [react-native-screens](https://github.com/software-mansion/react-native-screens) - React Native 应用程序的原生导航。 ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
+
+### 启动画面
+
+- [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) - React Native 启动画面。 ![](https://img.shields.io/github/stars/crazycodeboy/react-native-splash-screen.svg?style=social&label=Star)
+- [react-native-splashscreen](https://github.com/remobile/react-native-splashscreen) - React Native 启动画面。 ![](https://img.shields.io/github/stars/remobile/react-native-splashscreen.svg?style=social&label=Star)
+
 ### 图形/图像
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, 高性能的图像组件。 ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
@@ -74,19 +93,6 @@
 - [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - 可循环的视图/图片轮播组件。 ![](https://img.shields.io/github/stars/appintheair/react-native-looped-carousel.svg?style=social&label=Star)
 - [photo-viewer](https://github.com/merryjs/photo-viewer) - 基于 NYTPhotoViewer 和 FrescoImageViewer 的照片查看器。 ![](https://img.shields.io/github/stars/merryjs/photo-viewer.svg?style=social&label=Star)
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - 用于React Native的图片查看器, 类似 twitter 的图片查看器。 ![](https://img.shields.io/github/stars/Tinysymphony/react-native-zoom-image.svg?style=social&label=Star)
-
-### 按钮
-
-- [react-native-action-button](https://github.com/mastermoo/react-native-action-button) - 可自定义的多行为按钮。![](https://img.shields.io/github/stars/mastermoo/react-native-action-button.svg?style=social&label=Star)
-- [react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - 支持进度、可扩展、可用于生产、60fps、可呈现一组很棒的动画 3D UI 按钮。 ![](https://img.shields.io/github/stars/rcaferati/react-native-really-awesome-button.svg?style=social&label=Star)
-- [react-native-button](https://github.com/ide/react-native-button) - 用于 React 应用的按钮。 ![](https://img.shields.io/github/stars/ide/react-native-button.svg?style=social&label=Star)
-- [apsl-react-native-button](https://github.com/APSL/react-native-button) - 带圆角的 React Native 按钮组件。 ![](https://img.shields.io/github/stars/APSL/react-native-button.svg?style=social&label=Star)
-
-### 路由导航
-
-- [react-navigation](https://github.com/react-navigation/react-navigation) - 路由和导航，用于React Native应用。 ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
-- [react-native-navigation](https://github.com/wix/react-native-navigation) - 一个彻底的原生导航解决方案。 ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
-- [react-native-screens](https://github.com/software-mansion/react-native-screens) - React Native 应用程序的原生导航。 ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
 
 ### 表单
 

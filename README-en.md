@@ -10,10 +10,11 @@ English | [简体中文](./README.md)
 - [UI Frameworks](#ui-frameworks)
 - [Components](#components)
   - [Icon](#icon)
-  - [Image](#image)
-  - [Viewer/Swiper/Carousel](#viewerswipercarousel)
   - [Button](#button)
   - [Navigation](#navigation)
+  - [Splash Screen](#splash-screen)
+  - [Image](#image)
+  - [Viewer/Swiper/Carousel](#viewerswipercarousel)
   - [Forms](#forms)
   - [Animation](#animation)
   - [Dialog/Modal/Alert](#dialogmodalalert)
@@ -52,6 +53,24 @@ English | [简体中文](./README.md)
 - [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements. ![](https://img.shields.io/github/stars/artyorsh/react-native-eva-icons.svg?style=social&label=Star)
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight. ![](https://img.shields.io/github/stars/aykutkardas/react-icomoon.svg?style=social&label=Star)
 
+### Button
+
+- [react-native-action-button](https://github.com/mastermoo/react-native-action-button) - Customizable multi-action-button component for react-native. ![](https://img.shields.io/github/stars/mastermoo/react-native-action-button.svg?style=social&label=Star)
+- [react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - RNRAB is a 3D at 60fps, progress enabled, extendable, production ready component that renders an awesome animated set of UI buttons. ![](https://img.shields.io/github/stars/rcaferati/react-native-really-awesome-button.svg?style=social&label=Star)
+- [react-native-button](https://github.com/ide/react-native-button) - A button for React apps. ![](https://img.shields.io/github/stars/ide/react-native-button.svg?style=social&label=Star)
+- [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners. ![](https://img.shields.io/github/stars/APSL/react-native-button.svg?style=social&label=Star)
+
+### Navigation
+
+- [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps. ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
+- [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native. ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
+- [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app. ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
+
+### Splash Screen
+
+- [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded, it works on iOS and Android. ![](https://img.shields.io/github/stars/crazycodeboy/react-native-splash-screen.svg?style=social&label=Star)
+- [react-native-splashscreen ★358](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native. ![](https://img.shields.io/github/stars/remobile/react-native-splashscreen.svg?style=social&label=Star)
+
 ### Image
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component. ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
@@ -66,19 +85,6 @@ English | [简体中文](./README.md)
 - [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images. ![](https://img.shields.io/github/stars/appintheair/react-native-looped-carousel.svg?style=social&label=Star)
 - [photo-viewer](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer. ![](https://img.shields.io/github/stars/merryjs/photo-viewer.svg?style=social&label=Star)
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer. ![](https://img.shields.io/github/stars/Tinysymphony/react-native-zoom-image.svg?style=social&label=Star)
-
-### Button
-
-- [react-native-action-button](https://github.com/mastermoo/react-native-action-button) - Customizable multi-action-button component for react-native. ![](https://img.shields.io/github/stars/mastermoo/react-native-action-button.svg?style=social&label=Star)
-- [react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - RNRAB is a 3D at 60fps, progress enabled, extendable, production ready component that renders an awesome animated set of UI buttons. ![](https://img.shields.io/github/stars/rcaferati/react-native-really-awesome-button.svg?style=social&label=Star)
-- [react-native-button](https://github.com/ide/react-native-button) - A button for React apps. ![](https://img.shields.io/github/stars/ide/react-native-button.svg?style=social&label=Star)
-- [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners. ![](https://img.shields.io/github/stars/APSL/react-native-button.svg?style=social&label=Star)
-
-### Navigation
-
-- [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps. ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
-- [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native. ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
-- [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app. ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
 
 ### Forms
 
