@@ -49,6 +49,7 @@
 ## UI框架
 
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - 跨平台 React Native UI 工具包。 ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - 基于Eva Design系统，支持暗黑模式的React Native UI组件库。 ![](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?style=social&label=Star)
 - [react-native-paper](https://github.com/callstack/react-native-paper) - React Native版 Material design。 ![](https://img.shields.io/github/stars/callstack/react-native-paper.svg?style=social&label=Star)
 - [@shoutem/ui](https://github.com/shoutem/ui) - 可自定义的 React Native 组件集。 ![](https://img.shields.io/github/stars/shoutem/ui.svg?style=social&label=Star)
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - React Native版 Ant Design。 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
@@ -74,7 +75,9 @@
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) - 路由和导航，用于React Native应用。 ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - 一个彻底的原生导航解决方案。 ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
+- [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) - 第一个声明式 React Native 路由。 ![](https://img.shields.io/github/stars/aksonov/react-native-router-flux.svg?style=social&label=Star)
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - React Native 应用程序的原生导航。 ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
+- [react-native-navigation-hooks](https://github.com/underscopeio/react-native-navigation-hooks) - 用于 React Native 导航的 React hooks 集合。 ![](https://img.shields.io/github/stars/underscopeio/react-native-navigation-hooks.svg?style=social&label=Star)
 
 ### 启动画面
 

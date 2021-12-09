@@ -41,6 +41,7 @@ English | [简体中文](./README.md)
 ## UI Frameworks
 
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit. ![](https://img.shields.io/github/stars/react-native-elements/react-native-elements.svg?style=social&label=Star)
+- [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode. ![](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?style=social&label=Star)
 - [react-native-paper](https://github.com/callstack/react-native-paper) - Material design for React Native. ![](https://img.shields.io/github/stars/callstack/react-native-paper.svg?style=social&label=Star)
 - [@shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications. ![](https://img.shields.io/github/stars/shoutem/ui.svg?style=social&label=Star)
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native. ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
@@ -66,7 +67,9 @@ English | [简体中文](./README.md)
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps. ![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native. ![](https://img.shields.io/github/stars/wix/react-native-navigation.svg?style=social&label=Star)
+- [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API. ![](https://img.shields.io/github/stars/aksonov/react-native-router-flux.svg?style=social&label=Star)
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app. ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
+- [react-native-navigation-hooks](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Nav. ![](https://img.shields.io/github/stars/underscopeio/react-native-navigation-hooks.svg?style=social&label=Star)
 
 ### Splash Screen
 
