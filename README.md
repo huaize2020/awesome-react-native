@@ -32,6 +32,8 @@
     - [摄像头](#摄像头)
     - [视频](#视频)
     - [音频](#音频)
+  - [设备](#设备)
+    - [设备信息](#设备信息)
 - [脚手架/模板](#脚手架模板)
 
 ## 官方资源
@@ -161,6 +163,12 @@
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - 在您的 iOS 或 Android React Native 应用程序中录制和播放音频（不再维护）。 ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - React Native 音频播放和录制。实现了许多有用的功能，例如通过网络查找、循环播放和支持网络流式传输音频文件。 ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - 在 iOS 和 Android 的锁屏、通知中心中显示和管理媒体控件。 ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+### 设备
+
+#### 设备信息
+
+- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) -  获取设备信息。 ![](https://img.shields.io/github/stars/rebeccahughes/react-native-device-info.svg?style=social&label=Star)
 
 ## 脚手架/模板
 

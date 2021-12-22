@@ -24,6 +24,8 @@ English | [简体中文](./README.md)
     - [Camera](#camera)
     - [Video](#video)
     - [Audio](#audio)
+  - [Device](#device)
+    - [Device Info](#device-info)
 - [Boilerplate/Template](#boilerplatetemplate)
 
 ## Official
@@ -153,6 +155,12 @@ English | [简体中文](./README.md)
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained). ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network. ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - Display and manage media controls on lock screen and notification center for iOS and Android. ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+### Device
+
+#### Device Info
+
+- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native. ![](https://img.shields.io/github/stars/rebeccahughes/react-native-device-info.svg?style=social&label=Star)
 
 ## Boilerplate/Template
 
