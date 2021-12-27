@@ -9,6 +9,7 @@ English | [简体中文](./README.md)
 - [Utilities](#utilities)
 - [UI Frameworks](#ui-frameworks)
 - [Components](#components)
+  - [Styling](#styling)
   - [Icon](#icon)
   - [Button](#button)
   - [Navigation](#navigation)
@@ -49,6 +50,11 @@ English | [简体中文](./README.md)
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native. ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
 
 ## Components
+
+### Styling
+
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native. ![](https://img.shields.io/github/stars/react-native-linear-gradient/react-native-linear-gradient.svg?style=social&label=Star)
+- [react-native-shadow-2](https://github.com/SrBrahma/react-native-shadow-2) - Cross-platform shadow for React Native. Improved version of the abandoned react-native-shadow package.  ![](https://img.shields.io/github/stars/SrBrahma/react-native-shadow-2.svg?style=social&label=Star)
 
 ### Icon
 

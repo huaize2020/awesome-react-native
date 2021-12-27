@@ -17,6 +17,7 @@
 - [工具](#工具)
 - [UI框架](#ui框架)
 - [组件](#组件)
+  - [样式](#样式)
   - [图标](#图标)
   - [按钮](#按钮)
   - [路由导航](#路由导航)
@@ -57,6 +58,11 @@
 - [@ant-design/react-native](https://github.com/ant-design/ant-design-mobile-rn) - React Native版 Ant Design。 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?style=social&label=Star)
 
 ## 组件
+
+### 样式
+
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - 一个线性渐变 <LinearGradient /> 组件。![](https://img.shields.io/github/stars/react-native-linear-gradient/react-native-linear-gradient.svg?style=social&label=Star)
+- [react-native-shadow-2](https://github.com/SrBrahma/react-native-shadow-2) - 跨端阴影效果，基于 react-native-shadow 的升级版。  ![](https://img.shields.io/github/stars/SrBrahma/react-native-shadow-2.svg?style=social&label=Star)
 
 ### 图标
 
