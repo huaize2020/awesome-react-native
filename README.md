@@ -26,6 +26,7 @@
   - [查看器/滑动组件/轮播组件](#查看器滑动组件轮播组件)
   - [表单](#表单)
   - [动画](#动画)
+  - [抽屉组件](#抽屉组件)
   - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
   - [安全区域](#安全区域)
   - [多媒体](#多媒体)
@@ -130,6 +131,14 @@
 - [react-native-interactable](https://github.com/wix/react-native-interactable) - 高性能可交互视图的实验级实现。 ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
 - [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - 重新实现了 React Native 动画库。 ![](https://img.shields.io/github/stars/software-mansion/react-native-reanimated.svg?style=social&label=Star)
 - [react-native-magic-move](https://github.com/IjzerenHein/react-native-magic-move) - 在场景切换间创建神奇的移动过渡。 ![](https://img.shields.io/github/stars/IjzerenHein/react-native-magic-move.svg?style=social&label=Star)
+
+### 抽屉组件
+
+- [@react-navigation/drawer](https://github.com/react-navigation/react-navigation/tree/main/packages/drawer) - React Navigation 的抽屉导航。![](https://img.shields.io/github/stars/react-navigation/react-navigation.svg?style=social&label=Star)
+- [react-native-drawer](https://github.com/root-two/react-native-drawer) - React Native抽屉组件。 ![](https://img.shields.io/github/stars/root-two/react-native-drawer.svg?style=social&label=Star)
+- [react-native-scaling-drawer](https://github.com/melihberberolu/react-native-scaling-drawer) - React native可伸缩的抽屉组件。 ![](https://img.shields.io/github/stars/melihberberolu/react-native-scaling-drawer.svg?style=social&label=Star)
+- [react-native-bouncy-drawer](https://github.com/SoftZen/react-native-bouncy-drawer) - 高可定制的充气抽屉。 ![](https://img.shields.io/github/stars/SoftZen/react-native-bouncy-drawer.svg?style=social&label=Star)
+- [react-native-draggable-drawer](https://github.com/llanox/react-native-draggable-drawer) - 可拖拽抽屉。 ![](https://img.shields.io/github/stars/llanox/react-native-draggable-drawer.svg?style=social&label=Star)
 
 ### 对话框/模态弹窗/警告提示组件
 
