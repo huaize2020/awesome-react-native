@@ -21,6 +21,7 @@
   - [图标](#图标)
   - [按钮](#按钮)
   - [路由导航](#路由导航)
+  - [标签页](#标签页)
   - [启动画面](#启动画面)
   - [图形/图像](#图形图像)
   - [查看器/滑动组件/轮播组件](#查看器滑动组件轮播组件)
@@ -87,6 +88,10 @@
 - [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) - 第一个声明式 React Native 路由。 ![](https://img.shields.io/github/stars/aksonov/react-native-router-flux.svg?style=social&label=Star)
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - React Native 应用程序的原生导航。 ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
 - [react-native-navigation-hooks](https://github.com/underscopeio/react-native-navigation-hooks) - 用于 React Native 导航的 React hooks 集合。 ![](https://img.shields.io/github/stars/underscopeio/react-native-navigation-hooks.svg?style=social&label=Star)
+
+### 标签页
+
+- [react-native-tab-view](https://github.com/satya164/react-native-tab-view) - 跨平台的标签页组件。 ![](https://img.shields.io/github/stars/satya164/react-native-tab-view.svg?style=social&label=Star)
 
 ### 启动画面
 

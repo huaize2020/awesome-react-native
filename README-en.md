@@ -13,6 +13,7 @@ English | [简体中文](./README.md)
   - [Icon](#icon)
   - [Button](#button)
   - [Navigation](#navigation)
+  - [Tab](#tab)
   - [Splash Screen](#splash-screen)
   - [Image](#image)
   - [Viewer/Swiper/Carousel](#viewerswipercarousel)
@@ -79,6 +80,10 @@ English | [简体中文](./README.md)
 - [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API. ![](https://img.shields.io/github/stars/aksonov/react-native-router-flux.svg?style=social&label=Star)
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app. ![](https://img.shields.io/github/stars/software-mansion/react-native-screens.svg?style=social&label=Star)
 - [react-native-navigation-hooks](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Nav. ![](https://img.shields.io/github/stars/underscopeio/react-native-navigation-hooks.svg?style=social&label=Star)
+
+### Tab
+
+- [react-native-tab-view](https://github.com/satya164/react-native-tab-view) - A cross-platform Tab View component for React Native. ![](https://img.shields.io/github/stars/satya164/react-native-tab-view.svg?style=social&label=Star)
 
 ### Splash Screen
 
