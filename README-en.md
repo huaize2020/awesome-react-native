@@ -29,6 +29,7 @@ English | [简体中文](./README.md)
     - [Audio](#audio)
   - [Device](#device)
     - [Device Info](#device-info)
+    - [Network Info](#network-info)
 - [Boilerplate/Template](#boilerplatetemplate)
 
 ## Official
@@ -56,6 +57,7 @@ English | [简体中文](./README.md)
 ### Styling
 
 - [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native. ![](https://img.shields.io/github/stars/react-native-linear-gradient/react-native-linear-gradient.svg?style=social&label=Star)
+- [react-native-blur](https://github.com/Kureev/react-native-blur)- React Native Blur component. ![](https://img.shields.io/github/stars/Kureev/react-native-blur.svg?style=social&label=Star)
 - [react-native-shadow-2](https://github.com/SrBrahma/react-native-shadow-2) - Cross-platform shadow for React Native. Improved version of the abandoned react-native-shadow package.  ![](https://img.shields.io/github/stars/SrBrahma/react-native-shadow-2.svg?style=social&label=Star)
 
 ### Icon
@@ -123,6 +125,7 @@ English | [简体中文](./README.md)
 
 ### Animation
 
+- [lottie-ios](https://github.com/airbnb/lottie-ios) - Lottie for iOS, macOS (and Android and React Native).  ![](https://img.shields.io/github/stars/airbnb/lottie-ios.svg?style=social&label=Star)
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! ![](https://img.shields.io/github/stars/airbnb/lottie-react-native.svg?style=social&label=Star)
 - [react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native. ![](https://img.shields.io/github/stars/oblador/react-native-animatable.svg?style=social&label=Star)
 - [react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native. ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
@@ -181,6 +184,10 @@ English | [简体中文](./README.md)
 #### Device Info
 
 - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native. ![](https://img.shields.io/github/stars/rebeccahughes/react-native-device-info.svg?style=social&label=Star)
+
+#### Network Info
+
+- [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS. ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
 
 ## Boilerplate/Template
 

@@ -37,6 +37,7 @@
     - [音频](#音频)
   - [设备](#设备)
     - [设备信息](#设备信息)
+    - [网络信息](#网络信息)
 - [脚手架/模板](#脚手架模板)
 
 ## 官方资源
@@ -64,6 +65,7 @@
 ### 样式
 
 - [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - 一个线性渐变 <LinearGradient /> 组件。![](https://img.shields.io/github/stars/react-native-linear-gradient/react-native-linear-gradient.svg?style=social&label=Star)
+- [react-native-blur](https://github.com/Kureev/react-native-blur) - React Native 模糊组件。 ![](https://img.shields.io/github/stars/Kureev/react-native-blur.svg?style=social&label=Star)
 - [react-native-shadow-2](https://github.com/SrBrahma/react-native-shadow-2) - 跨端阴影效果，基于 react-native-shadow 的升级版。  ![](https://img.shields.io/github/stars/SrBrahma/react-native-shadow-2.svg?style=social&label=Star)
 
 ### 图标
@@ -131,6 +133,7 @@
 
 ### 动画
 
+- [lottie-ios](https://github.com/airbnb/lottie-ios) - Lottie for iOS, macOS (Android 和 React Native).  ![](https://img.shields.io/github/stars/airbnb/lottie-ios.svg?style=social&label=Star)
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - 适用于 Android 和 iOS 的移动库，用于解析 Adobe After Effects 动画，使用 bodymovin 导出为 JSON，并在移动设备上本地呈现它们！ ![](https://img.shields.io/github/stars/airbnb/lottie-react-native.svg?style=social&label=Star)
 - [react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native.React 易用的标准动画和声明式的过渡效果(transitions)。 ![](https://img.shields.io/github/stars/oblador/react-native-animatable.svg?style=social&label=Star)
 - [react-native-interactable](https://github.com/wix/react-native-interactable) - 高性能可交互视图的实验级实现。 ![](https://img.shields.io/github/stars/wix/react-native-interactable.svg?style=social&label=Star)
@@ -189,6 +192,10 @@
 #### 设备信息
 
 - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) -  获取设备信息。 ![](https://img.shields.io/github/stars/rebeccahughes/react-native-device-info.svg?style=social&label=Star)
+
+#### 网络信息
+
+- [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native 网络信息API。 ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
 
 ## 脚手架/模板
 
