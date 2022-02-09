@@ -30,6 +30,7 @@
   - [抽屉组件](#抽屉组件)
   - [对话框/模态弹窗/警告提示组件](#对话框模态弹窗警告提示组件)
   - [安全区域](#安全区域)
+  - [数据可视化](#数据可视化)
   - [多媒体](#多媒体)
     - [WebRTC](#webrtc)
     - [摄像头](#摄像头)
@@ -159,6 +160,11 @@
 ### 安全区域
 
 - [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - 处理安全区域的灵活方法。也适用于 Android 和 Web！ ![](https://img.shields.io/github/stars/th3rdwave/react-native-safe-area-context.svg?style=social&label=Star)
+
+### 数据可视化
+
+- [victory](https://github.com/FormidableLabs/victory) - 用于构建交互式数据可视化组件。 ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
+- [f2native](https://github.com/antvis/f2native) - 📱📈优雅、交互式和灵活的移动原生图表库。 ![](https://img.shields.io/github/stars/antvis/f2native.svg?style=social&label=Star)
 
 ### 多媒体
 

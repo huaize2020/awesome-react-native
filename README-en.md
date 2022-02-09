@@ -22,6 +22,7 @@ English | [简体中文](./README.md)
   - [Drawer](#drawer)
   - [Dialog/Modal/Alert](#dialogmodalalert)
   - [Safe Area](#safe-area)
+  - [Data Visualization](#data-visualization)
   - [Media](#media)
     - [WebRTC](#webrtc)
     - [Camera](#camera)
@@ -151,6 +152,11 @@ English | [简体中文](./README.md)
 ### Safe Area
 
 - [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web! ![](https://img.shields.io/github/stars/th3rdwave/react-native-safe-area-context.svg?style=social&label=Star)
+
+### Data Visualization
+
+- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations. ![](https://img.shields.io/github/stars/FormidableLabs/victory.svg?style=social&label=Star)
+- [f2native](https://github.com/antvis/f2native) - 📱📈An elegant, interactive and flexible native charting library for mobile. ![](https://img.shields.io/github/stars/antvis/f2native.svg?style=social&label=Star)
 
 ### Media
 
