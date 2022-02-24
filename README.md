@@ -39,6 +39,7 @@
   - [设备](#设备)
     - [设备信息](#设备信息)
     - [网络信息](#网络信息)
+  - [解析工具](#解析工具)
 - [脚手架/模板](#脚手架模板)
 
 ## 官方资源
@@ -202,6 +203,10 @@
 #### 网络信息
 
 - [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native 网络信息API。 ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
+
+### 解析工具
+
+- [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - 将 HTML 内容渲染为 React Native视图。 ![](https://img.shields.io/github/stars/jsdf/react-native-htmlview.svg?style=social&label=Star)
 
 ## 脚手架/模板
 

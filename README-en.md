@@ -31,6 +31,7 @@ English | [简体中文](./README.md)
   - [Device](#device)
     - [Device Info](#device-info)
     - [Network Info](#network-info)
+  - [Parsing](#parsing)
 - [Boilerplate/Template](#boilerplatetemplate)
 
 ## Official
@@ -194,6 +195,10 @@ English | [简体中文](./README.md)
 #### Network Info
 
 - [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS. ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
+
+### Parsing
+
+- [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - A React Native component which renders HTML content as native views. ![](https://img.shields.io/github/stars/jsdf/react-native-htmlview.svg?style=social&label=Star)
 
 ## Boilerplate/Template
 
