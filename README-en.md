@@ -25,7 +25,7 @@ English | [简体中文](./README.md)
   - [Data Visualization](#data-visualization)
   - [Media](#media)
     - [WebRTC](#webrtc)
-    - [Camera](#camera)
+    - [Camera/Photo](#cameraphoto)
     - [Video](#video)
     - [Audio](#audio)
   - [Device](#device)
@@ -166,11 +166,12 @@ English | [简体中文](./README.md)
 - [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native. ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-webrtc.svg?style=social&label=Star)
 - [react-native-incall-manager](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc. ![](https://img.shields.io/github/stars/zxcpoiu/react-native-incall-manager.svg?style=social&label=Star)
 
-#### Camera
+#### Camera/Photo
 
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component. ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
 - [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - A high performance, easy to use, rock solid camera library for React Native apps. ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
-* [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll. ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
+- [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library. ![](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll.svg?style=social&label=Star)
+- [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll. ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
 
 #### Video
 

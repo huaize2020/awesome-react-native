@@ -33,7 +33,7 @@
   - [数据可视化](#数据可视化)
   - [多媒体](#多媒体)
     - [WebRTC](#webrtc)
-    - [摄像头](#摄像头)
+    - [摄像头/相册](#摄像头相册)
     - [视频](#视频)
     - [音频](#音频)
   - [设备](#设备)
@@ -174,10 +174,11 @@
 - [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - React Native WebRTC 模块。 ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-webrtc.svg?style=social&label=Star)
 - [react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - 在处理音视频聊天期间，处理媒体路由/传感器/事件（类似 WebRTC)。 ![](https://img.shields.io/github/stars/react-native-webrtc/react-native-incall-manager.svg?style=social&label=Star)
 
-#### 摄像头
+#### 摄像头/相册
 
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - 摄像头组件。 ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
 - [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - 用于 React Native 应用程序的高性能、易用、稳定的相机库。 ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
+- [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll 是一个 react-native 原生模块，提供对本地相机胶卷或照片库的访问。 ![](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll.svg?style=social&label=Star)
 - [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - 从相机中选择图像的 React Native 组件。 ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
 
 #### 视频
