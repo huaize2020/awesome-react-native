@@ -199,6 +199,7 @@ English | [简体中文](./README.md)
 
 ### Parsing
 
+- [react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views. ![](https://img.shields.io/github/stars/meliorence/react-native-render-html.svg?style=social&label=Star)
 - [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - A React Native component which renders HTML content as native views. ![](https://img.shields.io/github/stars/jsdf/react-native-htmlview.svg?style=social&label=Star)
 
 ## Boilerplate/Template
