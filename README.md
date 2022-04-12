@@ -36,6 +36,7 @@
     - [摄像头/相册](#摄像头相册)
     - [视频](#视频)
     - [音频](#音频)
+  - [存储/数据库](#存储数据库)
   - [设备](#设备)
     - [设备信息](#设备信息)
     - [网络信息](#网络信息)
@@ -194,6 +195,14 @@
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - 在您的 iOS 或 Android React Native 应用程序中录制和播放音频（不再维护）。 ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - React Native 音频播放和录制。实现了许多有用的功能，例如通过网络查找、循环播放和支持网络流式传输音频文件。 ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - 在 iOS 和 Android 的锁屏、通知中心中显示和管理媒体控件。 ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+### 存储/数据库
+
+- [rxdb](https://github.com/pubkey/rxdb) - 客户端离线优先、响应式数据库。 ![](https://img.shields.io/github/stars/pubkey/rxdb.svg?style=social&label=Star)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 用于 React 和 React Native的响应式异步数据库。 ![](https://img.shields.io/github/stars/Nozbe/WatermelonDB.svg?style=social&label=Star)
+- [realm-js](https://github.com/realm/realm-js) - Realm 是一个移动数据库：SQLite 和 KV 存储的替代品。 ![](https://img.shields.io/github/stars/realm/realm-js.svg?style=social&label=Star)
+- [react-native-storage](https://github.com/sunnylqm/react-native-storage) - 可同时用于 React Native和浏览器 LocalStorage 封装。支持容量控制、自动过期、远程数据同步和批量查询数据。 ![](https://img.shields.io/github/stars/sunnylqm/react-native-storage.svg?style=social&label=Star)
+- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) - 用于(Android and iOS)功能完善的 SQLite3 插件 ![](https://img.shields.io/github/stars/andpor/react-native-sqlite-storage.svg?style=social&label=Star)
 
 ### 设备
 

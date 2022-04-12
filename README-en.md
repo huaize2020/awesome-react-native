@@ -28,6 +28,7 @@ English | [简体中文](./README.md)
     - [Camera/Photo](#cameraphoto)
     - [Video](#video)
     - [Audio](#audio)
+  - [Storage / Database](#storage--database)
   - [Device](#device)
     - [Device Info](#device-info)
     - [Network Info](#network-info)
@@ -186,6 +187,14 @@ English | [简体中文](./README.md)
 - [react-native-audio](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained). ![](https://img.shields.io/github/stars/jsierles/react-native-audio.svg?style=social&label=Star)
 - [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network. ![](https://img.shields.io/github/stars/react-native-community/react-native-audio-toolkit.svg?style=social&label=Star)
 - [react-native-music-control](https://github.com/tanguyantoine/react-native-music-control) - Display and manage media controls on lock screen and notification center for iOS and Android. ![](https://img.shields.io/github/stars/tanguyantoine/react-native-music-control.svg?style=social&label=Star)
+
+### Storage / Database
+
+- [rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications. ![](https://img.shields.io/github/stars/pubkey/rxdb.svg?style=social&label=Star)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ ![](https://img.shields.io/github/stars/Nozbe/WatermelonDB.svg?style=social&label=Star)
+- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores. ![](https://img.shields.io/github/stars/realm/realm-js.svg?style=social&label=Star)
+- [react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query. ![](https://img.shields.io/github/stars/sunnylqm/react-native-storage.svg?style=social&label=Star)
+- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) - Full featured SQLite3 Native Plugin for React Native (Android and iOS) ![](https://img.shields.io/github/stars/andpor/react-native-sqlite-storage.svg?style=social&label=Star)
 
 ### Device
 
