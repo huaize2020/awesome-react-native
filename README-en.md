@@ -32,6 +32,7 @@ English | [简体中文](./README.md)
   - [Device](#device)
     - [Device Info](#device-info)
     - [Network Info](#network-info)
+    - [System](#system)
   - [Parsing](#parsing)
 - [Boilerplate/Template](#boilerplatetemplate)
 
@@ -99,6 +100,7 @@ English | [简体中文](./README.md)
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component. ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects. ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot) - Snapshot a React Native view and save it to an image. ![](https://img.shields.io/github/stars/gre/react-native-view-shot.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - Render SVG images in React Native from an URL or static file(Depends on react-native-svg). ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
 
 ### Viewer/Swiper/Carousel
@@ -205,6 +207,10 @@ English | [简体中文](./README.md)
 #### Network Info
 
 - [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS. ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
+
+#### System
+
+- [react-native-permissions](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api. ![](https://img.shields.io/github/stars/yonahforst/react-native-permissions.svg?style=social&label=Star)
 
 ### Parsing
 

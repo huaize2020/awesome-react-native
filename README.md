@@ -40,6 +40,7 @@
   - [设备](#设备)
     - [设备信息](#设备信息)
     - [网络信息](#网络信息)
+    - [系统](#系统)
   - [解析工具](#解析工具)
 - [脚手架/模板](#脚手架模板)
 
@@ -107,6 +108,7 @@
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, 高性能的图像组件。 ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG组件库，用于 React Native, React Native Web 和 纯React Web项目。 ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot) - 将 React Native View 生成快照图片。 ![](https://img.shields.io/github/stars/gre/react-native-view-shot.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - 从一个 URL 或静态文件中渲染 SVG 图形 (基于react-native-svg)。 ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
 
 ### 查看器/滑动组件/轮播组件
@@ -213,6 +215,10 @@
 #### 网络信息
 
 - [@react-native-community/netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native 网络信息API。 ![](https://img.shields.io/github/stars/react-native-netinfo/react-native-netinfo.svg?style=social&label=Star)
+
+#### 系统
+
+- [react-native-permissions](https://github.com/yonahforst/react-native-permissions) - 通过单一 API 检查和请求所有权限。 ![](https://img.shields.io/github/stars/yonahforst/react-native-permissions.svg?style=social&label=Star)
 
 ### 解析工具
 
