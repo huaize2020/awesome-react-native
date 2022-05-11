@@ -108,8 +108,10 @@
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, 高性能的图像组件。 ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG组件库，用于 React Native, React Native Web 和 纯React Web项目。 ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android 图像选择器，支持相机、视频、可配置压缩、多图像和裁剪。 ![](https://img.shields.io/github/stars/ivpusic/react-native-image-crop-picker.svg?style=social&label=Star)
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) - 将 React Native View 生成快照图片。 ![](https://img.shields.io/github/stars/gre/react-native-view-shot.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - 从一个 URL 或静态文件中渲染 SVG 图形 (基于react-native-svg)。 ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
+- [react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - 小巧、纯 TS 编写的用于查看图像的模态组件🏙 ![](https://img.shields.io/github/stars/jobtoday/react-native-image-viewing.svg?style=social&label=Star)
 
 ### 查看器/滑动组件/轮播组件
 
@@ -180,6 +182,7 @@
 #### 摄像头/相册
 
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - 摄像头组件。 ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android 图像选择器，支持相机、视频、可配置压缩、多图像和裁剪。 ![](https://img.shields.io/github/stars/ivpusic/react-native-image-crop-picker.svg?style=social&label=Star)
 - [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - 用于 React Native 应用程序的高性能、易用、稳定的相机库。 ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
 - [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll 是一个 react-native 原生模块，提供对本地相机胶卷或照片库的访问。 ![](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll.svg?style=social&label=Star)
 - [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - 从相机中选择图像的 React Native 组件。 ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)

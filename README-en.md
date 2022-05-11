@@ -100,8 +100,10 @@ English | [简体中文](./README.md)
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component. ![](https://img.shields.io/github/stars/DylanVann/react-native-fast-image.svg?style=social&label=Star)
 - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects. ![](https://img.shields.io/github/stars/react-native-svg/react-native-svg.svg?style=social&label=Star)
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping. ![](https://img.shields.io/github/stars/ivpusic/react-native-image-crop-picker.svg?style=social&label=Star)
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) - Snapshot a React Native view and save it to an image. ![](https://img.shields.io/github/stars/gre/react-native-view-shot.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - Render SVG images in React Native from an URL or static file(Depends on react-native-svg). ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
+- [react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - Tiny, purely TS, modal component for viewing images 🏙. ![](https://img.shields.io/github/stars/jobtoday/react-native-image-viewing.svg?style=social&label=Star)
 
 ### Viewer/Swiper/Carousel
 
@@ -172,6 +174,7 @@ English | [简体中文](./README.md)
 #### Camera/Photo
 
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component. ![](https://img.shields.io/github/stars/lwansbrough/react-native-camera.svg?style=social&label=Star)
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping. ![](https://img.shields.io/github/stars/ivpusic/react-native-image-crop-picker.svg?style=social&label=Star)
 - [react-native-camera-kit](https://github.com/wix/react-native-camera-kit) - A high performance, easy to use, rock solid camera library for React Native apps. ![](https://img.shields.io/github/stars/wix/react-native-camera-kit.svg?style=social&label=Star)
 - [react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library. ![](https://img.shields.io/github/stars/react-native-cameraroll/react-native-cameraroll.svg?style=social&label=Star)
 - [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll. ![](https://img.shields.io/github/stars/jeanpan/react-native-camera-roll-picker.svg?style=social&label=Star)
