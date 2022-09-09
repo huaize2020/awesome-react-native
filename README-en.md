@@ -35,6 +35,7 @@ English | [简体中文](./README.md)
     - [Device Info](#device-info)
     - [Network Info](#network-info)
     - [System](#system)
+    - [NFC](#nfc)
   - [Parsing](#parsing)
 - [Development Tools](#development-tools)
 
@@ -227,6 +228,10 @@ English | [简体中文](./README.md)
 #### System
 
 - [react-native-permissions](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api. ![](https://img.shields.io/github/stars/yonahforst/react-native-permissions.svg?style=social&label=Star)
+
+#### NFC
+
+- [react-native-nfc-manager](https://github.com/revtel/react-native-nfc-manager) - React Native NFC module for Android & iOS. ![](https://img.shields.io/github/stars/revtel/react-native-nfc-manager.svg?style=social&label=Star)
 
 ### Parsing
 
