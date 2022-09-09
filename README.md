@@ -43,6 +43,7 @@
     - [设备信息](#设备信息)
     - [网络信息](#网络信息)
     - [系统](#系统)
+    - [NFC](#nfc)
   - [解析工具](#解析工具)
 - [开发工具](#开发工具)
 
@@ -235,6 +236,10 @@
 #### 系统
 
 - [react-native-permissions](https://github.com/yonahforst/react-native-permissions) - 通过单一 API 检查和请求所有权限。 ![](https://img.shields.io/github/stars/yonahforst/react-native-permissions.svg?style=social&label=Star)
+
+#### NFC
+
+- [react-native-nfc-manager](https://github.com/revtel/react-native-nfc-manager) - React Native NFC 模块。 ![](https://img.shields.io/github/stars/revtel/react-native-nfc-manager.svg?style=social&label=Star)
 
 ### 解析工具
 
