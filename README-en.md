@@ -241,4 +241,5 @@ English | [简体中文](./README.md)
 ## Development Tools
 
 - [react-native-flipper](https://github.com/facebook/flipper) - Flipper (formerly Sonar) is a platform for debugging mobile apps on iOS and Android and, recently, even JS apps in your browser or in Node.js. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API. ![](https://img.shields.io/github/stars/facebook/flipper.svg?style=social&label=Star)
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)  ![](https://img.shields.io/github/stars/welldone-software/why-did-you-render.svg?style=social&label=Star)
 - [reactotron-react-native](https://github.com/infinitered/reactotron-react-native) - A development tool to explore, inspect, and diagnose your React Native apps.  ![](https://img.shields.io/github/stars/infinitered/reactotron-react-native.svg?style=social&label=Star)

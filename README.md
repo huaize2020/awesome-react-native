@@ -249,4 +249,5 @@
 ## 开发工具
 
 - [react-native-flipper](https://github.com/facebook/flipper) - Flipper（以前称为 Sonar）是一个用于调试 iOS 和 Android 上的移动应用程序的平台，最近甚至可以在浏览器或 Node.js 中调试 JS 应用程序。 从简单的桌面界面可视化、检查和控制您的应用程序。 按原样使用 Flipper 或使用插件 API 对其进行扩展。 ![](https://img.shields.io/github/stars/facebook/flipper.svg?style=social&label=Star)
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 由 Welldone Software 开发，通过对 React 进行猴子补丁 (Monkey Patch)，通知你有关于可能避免的重新渲染的信息。它也可以在 React Native 中使用。  ![](https://img.shields.io/github/stars/welldone-software/why-did-you-render.svg?style=social&label=Star)
 - [reactotron-react-native](https://github.com/infinitered/reactotron-react-native) - 用于探索、检查和诊断 React Native 应用程序的开发工具。 ![](https://img.shields.io/github/stars/infinitered/reactotron-react-native.svg?style=social&label=Star)
