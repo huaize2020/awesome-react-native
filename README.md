@@ -126,6 +126,7 @@
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) - 将 React Native View 生成快照图片。 ![](https://img.shields.io/github/stars/gre/react-native-view-shot.svg?style=social&label=Star)
 - [react-native-svg-uri](https://github.com/vault-development/react-native-svg-uri) - 从一个 URL 或静态文件中渲染 SVG 图形 (基于react-native-svg)。 ![](https://img.shields.io/github/stars/vault-development/react-native-svg-uri.svg?style=social&label=Star)
 - [react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - 小巧、纯 TS 编写的用于查看图像的模态组件🏙 ![](https://img.shields.io/github/stars/jobtoday/react-native-image-viewing.svg?style=social&label=Star)
+- [react-native-text-avatar](https://github.com/hicay/react-native-text-avatar) - 类似 Gmail 的首字母头像组件，根据姓名生成稳定的颜色，支持多种形状和深色模式，无原生代码。 ![](https://img.shields.io/github/stars/hicay/react-native-text-avatar.svg?style=social&label=Star)
 
 ### 查看器/滑动组件/轮播组件
 
